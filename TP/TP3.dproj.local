@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/09/10 20:59:28.000.368,=C:\Users\Leo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/10 21:00:56.000.441,=C:\Users\Leo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/09/10 21:10:00.000.155,C:\Users\Leo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Leo\OneDrive\Documentos\Isft189\Seminario de Programacion\TP\Vectores.pas</Transaction>
+    <Transaction>2021/09/10 21:11:03.000.102,C:\Users\Leo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Leo\OneDrive\Documentos\Isft189\Seminario de Programacion\TP\EjPoo.dfm</Transaction>
+    <Transaction>2021/09/10 21:11:03.000.102,C:\Users\Leo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Leo\OneDrive\Documentos\Isft189\Seminario de Programacion\TP\EjPoo.pas</Transaction>
+    <Transaction>2021/09/10 21:52:59.000.308,C:\Users\Leo\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Leo\OneDrive\Documentos\Isft189\Seminario de Programacion\TP\TP3.dproj</Transaction>
+    <Transaction>2021/09/12 23:37:38.000.522,=C:\Users\Leo\OneDrive\Documentos\Isft189\Seminario de Programacion\TP\Unit1.pas</Transaction>
+    <Transaction>2021/09/12 23:38:01.000.409,C:\Users\Leo\OneDrive\Documentos\Isft189\Seminario de Programacion\TP\Unit1.pas=C:\Users\Leo\OneDrive\Documentos\Isft189\Seminario de Programacion\TP\Fecha.pas</Transaction>
+    <Transaction>2021/09/12 23:41:32.000.680,C:\Users\Leo\OneDrive\Documentos\Isft189\Seminario de Programacion\TP\Fecha.pas=C:\Users\Leo\OneDrive\Documentos\Isft189\Seminario de Programacion\TP\Fechas.pas</Transaction>
+    <Transaction>2021/09/16 21:49:04.000.471,=C:\Users\Leo\OneDrive\Documentos\Isft189\Seminario de Programacion\TP\Unit1.pas</Transaction>
+    <Transaction>2021/09/16 21:55:49.000.852,=C:\Users\Leo\OneDrive\Documentos\Isft189\Seminario de Programacion\TP\Estacionamiento.pas</Transaction>
+  </Transactions>
+</BorlandProject>

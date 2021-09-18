@@ -1,0 +1,13 @@
+unit Estacionamiento;
+
+interface
+
+Uses
+  SysUtils,System.DateUtils;
+Type
+  Estaciona = Object
+
+  End;
+implementation
+
+end.
