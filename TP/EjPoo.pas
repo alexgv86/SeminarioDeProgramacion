@@ -5,7 +5,7 @@ interface
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
   Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls,
-  Vectores, Fechas, Estacionamiento,
+  Vectores, Matriz, Fechas, Estacionamiento,
   Vcl.ExtCtrls;
 
 type
@@ -47,6 +47,7 @@ type
     procedure ButtonBisiestoClick(Sender: TObject);
     procedure ButtonMayorMenorClick(Sender: TObject);
     procedure ButtonF1F2Click(Sender: TObject);
+    procedure Button2Click(Sender: TObject);
   private
     { Private declarations }
   public
@@ -55,8 +56,10 @@ type
 
 var
   Form1: TForm1;
-  V,V1,V2: Vector;
   F: Fecha;
+  M1,M2: oMatriz;
+  V,V1,V2: Vector;
+
 implementation
 
 {$R *.dfm}
@@ -69,15 +72,8 @@ begin
   Panel1.Hide;
   memo1.Show;
   memo1.Clear;
-  try
-    D := strToDate('09/12/2021');
-  except
-  on exception do
-  showmessage('Fecha no correcta');
-  end;
 
   V.CargaAleatoria(10, 50, False);
-  memo1.Lines.Add((Trunc((strToDate('09/10/2021'))-(strToDate('05/10/2021'))).ToString));
   memo1.Lines.Add('a)');
   for I := 0 to (V.RetornaMax() - 1) do Begin
     memo1.Lines.Add('V[' + I.ToString + ']: ' + V.RetornaArreglo(I).ToString);
@@ -94,6 +90,15 @@ begin
   memo1.Lines.Add('h) ' + #13#10 + V.Suma(V1, V2, ' - '));
 end;
 
+procedure TForm1.Button2Click(Sender: TObject);
+begin
+  Panel1.Hide;
+  memo1.Show;
+  memo1.Clear;
+  M1.CargarRandom(0,10);
+  memo1.Lines.Add(M1.RetornarString);
+end;
+
 procedure TForm1.Button4Click(Sender: TObject);
 begin
   memo1.Hide;
@@ -104,7 +109,7 @@ procedure TForm1.ButtonBisiestoClick(Sender: TObject);
 begin
   LabelSumaRestaResul.Caption := '';
   EditDiasSumaResta.Text := '';
-  EditFecha2.Text := '';
+  //EditFecha2.Text := '';
   LabelResulFecha.Hide;
   if F.EsBisiesto(strToDate(EditFecha1.Text)) then Begin
     LabelBisiesto.Show;

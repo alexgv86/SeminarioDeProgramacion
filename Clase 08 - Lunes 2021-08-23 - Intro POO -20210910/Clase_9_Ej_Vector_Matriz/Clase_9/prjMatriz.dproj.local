@@ -2,14 +2,14 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2021/04/19 18:30:05.000.580,=C:\Users\mperello\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2021/07/13 19:05:29.466,=C:\Users\mperello\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2021/07/13 19:06:09.953,=C:\Users\mperello\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2021/07/13 19:06:48.908,D:\Mario\Terciario\AED_2\2021\Delphi\Clase_9\Matriz.pas=C:\Users\mperello\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2021/07/13 19:06:55.896,D:\Mario\Terciario\AED_2\2021\Delphi\Clase_9\TestMatriz.pas=C:\Users\mperello\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2021/07/13 19:06:55.896,D:\Mario\Terciario\AED_2\2021\Delphi\Clase_9\TestMatriz.dfm=C:\Users\mperello\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2021/07/13 19:07:03.165,D:\Mario\Terciario\AED_2\2021\Delphi\Clase_9\prjMatriz.dproj=C:\Users\mperello\OneDrive\Documentos\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
-    <Transaction>2021/07/13 19:11:17.081,=D:\Mario\Terciario\AED_2\2021\Delphi\Clase_8\Vectores.pas</Transaction>
-    <Transaction>2021/07/13 19:12:00.437,D:\Mario\Terciario\AED_2\2021\Delphi\Clase_8\Vectores.pas=</Transaction>
-    <Transaction>2021/07/13 19:12:06.357,=D:\Mario\Terciario\AED_2\2021\Delphi\Clase_9\Vectores.pas</Transaction>
+    <Transaction>2021/07/13 19:05:29.000.466,=C:\Users\mperello\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/13 19:06:09.000.953,=C:\Users\mperello\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/07/13 19:06:48.000.908,C:\Users\mperello\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas=D:\Mario\Terciario\AED_2\2021\Delphi\Clase_9\Matriz.pas</Transaction>
+    <Transaction>2021/07/13 19:06:55.000.896,C:\Users\mperello\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=D:\Mario\Terciario\AED_2\2021\Delphi\Clase_9\TestMatriz.dfm</Transaction>
+    <Transaction>2021/07/13 19:06:55.000.896,C:\Users\mperello\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=D:\Mario\Terciario\AED_2\2021\Delphi\Clase_9\TestMatriz.pas</Transaction>
+    <Transaction>2021/07/13 19:07:03.000.165,C:\Users\mperello\OneDrive\Documentos\Embarcadero\Studio\Projects\Project2.dproj=D:\Mario\Terciario\AED_2\2021\Delphi\Clase_9\prjMatriz.dproj</Transaction>
+    <Transaction>2021/07/13 19:11:17.000.081,=D:\Mario\Terciario\AED_2\2021\Delphi\Clase_8\Vectores.pas</Transaction>
+    <Transaction>2021/07/13 19:12:00.000.437,D:\Mario\Terciario\AED_2\2021\Delphi\Clase_8\Vectores.pas=</Transaction>
+    <Transaction>2021/07/13 19:12:06.000.357,=D:\Mario\Terciario\AED_2\2021\Delphi\Clase_9\Vectores.pas</Transaction>
   </Transactions>
 </BorlandProject>

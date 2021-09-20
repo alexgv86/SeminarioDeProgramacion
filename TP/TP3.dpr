@@ -5,7 +5,8 @@ uses
   EjPoo in 'EjPoo.pas' {Form1},
   Vectores in 'Vectores.pas',
   Fechas in 'Fechas.pas',
-  Estacionamiento in 'Estacionamiento.pas';
+  Estacionamiento in 'Estacionamiento.pas',
+  Matriz in 'Matriz.pas';
 
 {$R *.res}
 
